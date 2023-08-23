@@ -1,0 +1,1 @@
+console.log("Tenha pena de mim pela santa misericordia")
